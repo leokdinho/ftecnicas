@@ -1,0 +1,25 @@
+body {
+    background-image: url(pan-.avif);
+    background-color: rgb(57, 0, 100);
+}
+table {
+    color: brown;
+    background-color: aliceblue;
+    position: relative;
+    right: 40%;
+    left: 30%;
+}
+h1 {
+    color: bisque;
+    position: relative;
+    right: 50%;
+    left: 40%;
+
+}
+i{
+    color: brown;
+    font-size: 160%;
+    position: relative;
+    right: 50%;
+    left: 30%;
+}
